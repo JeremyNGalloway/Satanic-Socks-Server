@@ -1,6 +1,7 @@
 # Satanic Socks Server
 ripped from public sources; used in Linux.Proxy.10
-Over a decade old and still being used /smh
+
+Over a decade old and still being used by baddies /smh
 
 See: http://news.drweb.com/show/?i=11115&c=5&lng=en&p=0
 
