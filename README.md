@@ -1,4 +1,4 @@
-# Satanic-Socks-Server
+# Satanic Socks Server
 ripped from public sources; used in Linux.Proxy.10
 Over a decade old and still being used /smh
 
