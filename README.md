@@ -19,3 +19,5 @@ Common auth for this code is:
                         Satanic Socks Server v0.8.031206-perl 
     This script is private. Only for SaTaNiC team and friends. Not for sale. 
                         Coded by drmist/STNC, web: www.stnc.ru.
+
+![Alt text](https://st.drweb.com/static/new-www/news/2017/january/linux_proxy_10.png "dr web")
