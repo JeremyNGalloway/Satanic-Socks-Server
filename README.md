@@ -11,6 +11,6 @@ Common auth for this code is:
   
  Uses port 3003 by default
  
-#                        "Satanic Socks Server v0.8.031206-perl 
-#    This script is private. Only for SaTaNiC team and friends. Not for sale. 
-#                        Coded by drmist/STNC, web: www.stnc.ru. "
+                        Satanic Socks Server v0.8.031206-perl 
+    This script is private. Only for SaTaNiC team and friends. Not for sale. 
+                        Coded by drmist/STNC, web: www.stnc.ru.
