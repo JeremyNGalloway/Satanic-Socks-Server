@@ -6,8 +6,11 @@ See: http://news.drweb.com/show/?i=11115&c=5&lng=en&p=0
 
 Common auth for this code is:
   user:pass
+  
   mother:fucker
+  
   root:dedaloodak7
+  
   
  Uses port 3003 by default
  
